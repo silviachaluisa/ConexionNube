@@ -10,7 +10,7 @@
     </properties>
     <border type="none"/>
     <children>
-      <component id="16ab7" class="javax.swing.JTextField" binding="TXF1">
+      <component id="16ab7" class="javax.swing.JTextField" binding="Input_servidor">
         <constraints>
           <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -34,7 +34,7 @@
           <text value="Usuario"/>
         </properties>
       </component>
-      <component id="e1a62" class="javax.swing.JTextField" binding="TXF2">
+      <component id="e1a62" class="javax.swing.JTextField" binding="Input_usuario">
         <constraints>
           <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -50,7 +50,7 @@
           <text value="Contraseña"/>
         </properties>
       </component>
-      <component id="dcdbb" class="javax.swing.JTextField" binding="TXF3">
+      <component id="dcdbb" class="javax.swing.JTextField" binding="Input_contrasena">
         <constraints>
           <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -66,7 +66,7 @@
           <text value="Base de datos"/>
         </properties>
       </component>
-      <component id="bf579" class="javax.swing.JTextField" binding="TXF4">
+      <component id="bf579" class="javax.swing.JTextField" binding="Input_basedatos">
         <constraints>
           <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -98,7 +98,7 @@
           <text value="Descripcion"/>
         </properties>
       </component>
-      <component id="17d3f" class="javax.swing.JTextField" binding="TXF7">
+      <component id="17d3f" class="javax.swing.JTextField" binding="Input_descripcion">
         <constraints>
           <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -106,7 +106,7 @@
         </constraints>
         <properties/>
       </component>
-      <component id="18b87" class="javax.swing.JTextField" binding="TXF5">
+      <component id="18b87" class="javax.swing.JTextField" binding="Input_nombre">
         <constraints>
           <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -114,7 +114,7 @@
         </constraints>
         <properties/>
       </component>
-      <component id="be9ab" class="javax.swing.JTextField" binding="TXF6">
+      <component id="be9ab" class="javax.swing.JTextField" binding="Input_pasatiempo">
         <constraints>
           <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
