@@ -9,4 +9,5 @@ public class Aplicacion {
     private JTextField TXF5;
     private JTextField TXF6;
     private JTextField TXF7;
+    private JButton registrarButton;
 }
