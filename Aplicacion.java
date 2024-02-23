@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class Aplicacion {
-    private JPanel APP;
+    public JPanel APP;
     private JTextField TXF1;
     private JTextField TXF2;
     private JTextField TXF3;
